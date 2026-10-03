@@ -1,7 +1,6 @@
 # The Kaplin Hackpad
 
-![Case](assets/case.png)
-
+![Cool Image with PCB and case](assets/case_and_pcb.png)
 
 My first ever macropad, made following this [guide](https://web.archive.org/web/20251224215247/https://blueprint.hackclub.com/hackpad/index.md)
 
@@ -20,5 +19,12 @@ but was submitted to and for hack club's [stardance](https://stardance.hackclub.
 
 - Made with my cool club (my hack club)!!
 
+## Gallery 
+
 ![PCB](assets/pcb.png)
 
+![Schematic](assets/schematic.png)
+
+![Case](assets/case.png)
+
+![PCB in case (Topless)](assets/case_bottom_and_pcb.png)
